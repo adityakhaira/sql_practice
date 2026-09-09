@@ -4,4 +4,5 @@ c.countrycode=ct.code
 where ct.continent='Africa';
 
 // on
+
 // city c -> alias for city
