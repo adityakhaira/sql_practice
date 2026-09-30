@@ -15,6 +15,7 @@
 -- If multiple employees have the same highest salary,
 -- all of them should be returned.
 
+
 SELECT
     d.name AS Department,
     e.name AS Employee,
