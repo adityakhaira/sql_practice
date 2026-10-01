@@ -6,6 +6,7 @@
 -- 3. MAX()
 -- 4. Subquery
 --
+
 -- Key idea:
 -- First find the maximum salary in each department.
 -- Then join Employee and Department with those maximum salaries
