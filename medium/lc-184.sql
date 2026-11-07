@@ -34,3 +34,5 @@ JOIN (
     ON e.departmentId = m.departmentId
     AND e.salary = m.max_salary;
 
+
+
