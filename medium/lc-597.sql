@@ -34,3 +34,4 @@ SELECT
         ),
         2
     ) AS accept_rate;
+
